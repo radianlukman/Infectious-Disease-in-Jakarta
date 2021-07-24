@@ -1,0 +1,10 @@
+Data Jumlah Penderita Penyakit Menular Menurut Jenis Penyakit
+https://data.jakarta.go.id/dataset/data-jumlah-penderita-penyakit-menular-menurut-jenis-penyakit-di-provinsi-dki-jakarta
+6 Penyakit: Malaria, Gastro Entritits, Kolera, Kusta, TBC, DBD.
+
+1. Di tahun berapakah penyakit menular tertinggi?
+- SUDAH
+2. Di wilayah mana dengan rata-rata penyakit menular pertahun tertinggi?
+3. Di walayah itu (2), kota mana?
+4. Apa nama penyakit menular diurutkan dari yang tertinggi?
+- SUDAH
