@@ -1,0 +1,217 @@
+year,region,disease_name,number_of_cases
+2015,Thousand Islands,Malaria,0
+2015,South Jakarta,Malaria,6
+2015,East Jakarta,Malaria,2
+2015,Central Jakarta,Malaria,4
+2015,West Jakarta,Malaria,5
+2015,North Jakarta,Malaria,3
+2015,Thousand Islands,Gastro Entritis,0
+2015,South Jakarta,Gastro Entritis,0
+2015,East Jakarta,Gastro Entritis,0
+2015,Central Jakarta,Gastro Entritis,0
+2015,West Jakarta,Gastro Entritis,0
+2015,North Jakarta,Gastro Entritis,0
+2015,Thousand Islands,Cholera,0
+2015,South Jakarta,Cholera,0
+2015,East Jakarta,Cholera,0
+2015,Central Jakarta,Cholera,0
+2015,West Jakarta,Cholera,0
+2015,North Jakarta,Cholera,0
+2015,Thousand Islands,Leprosy,3
+2015,South Jakarta,Leprosy,69
+2015,East Jakarta,Leprosy,81
+2015,Central Jakarta,Leprosy,12
+2015,West Jakarta,Leprosy,89
+2015,North Jakarta,Leprosy,63
+2015,Thousand Islands,TBC,10
+2015,South Jakarta,TBC,3874
+2015,East Jakarta,TBC,7442
+2015,Central Jakarta,TBC,4168
+2015,West Jakarta,TBC,5028
+2015,North Jakarta,TBC,2608
+2015,Thousand Islands,DHF,10
+2015,South Jakarta,DHF,1140
+2015,East Jakarta,DHF,1226
+2015,Central Jakarta,DHF,405
+2015,West Jakarta,DHF,1283
+2015,North Jakarta,DHF,968
+2016,Thousand Islands,Malaria,0
+2016,South Jakarta,Malaria,5
+2016,East Jakarta,Malaria,17
+2016,Central Jakarta,Malaria,5
+2016,West Jakarta,Malaria,13
+2016,North Jakarta,Malaria,8
+2016,Thousand Islands,Gastro Entritis,0
+2016,South Jakarta,Gastro Entritis,0
+2016,East Jakarta,Gastro Entritis,0
+2016,Central Jakarta,Gastro Entritis,0
+2016,West Jakarta,Gastro Entritis,0
+2016,North Jakarta,Gastro Entritis,0
+2016,Thousand Islands,Cholera,0
+2016,South Jakarta,Cholera,0
+2016,East Jakarta,Cholera,0
+2016,Central Jakarta,Cholera,0
+2016,West Jakarta,Cholera,0
+2016,North Jakarta,Cholera,0
+2016,Thousand Islands,Leprosy,1
+2016,South Jakarta,Leprosy,70
+2016,East Jakarta,Leprosy,79
+2016,Central Jakarta,Leprosy,16
+2016,West Jakarta,Leprosy,98
+2016,North Jakarta,Leprosy,46
+2016,Thousand Islands,TBC,41
+2016,South Jakarta,TBC,5255
+2016,East Jakarta,TBC,8897
+2016,Central Jakarta,TBC,4369
+2016,West Jakarta,TBC,5610
+2016,North Jakarta,TBC,4224
+2016,Thousand Islands,DHF,10
+2016,South Jakarta,DHF,4378
+2016,East Jakarta,DHF,6438
+2016,Central Jakarta,DHF,1222
+2016,West Jakarta,DHF,5563
+2016,North Jakarta,DHF,2821
+2017,Thousand Islands,Malaria,0
+2017,South Jakarta,Malaria,12
+2017,East Jakarta,Malaria,25
+2017,Central Jakarta,Malaria,8
+2017,West Jakarta,Malaria,10
+2017,North Jakarta,Malaria,7
+2017,Thousand Islands,Gastro Entritis,19
+2017,South Jakarta,Gastro Entritis,5230
+2017,East Jakarta,Gastro Entritis,10040
+2017,Central Jakarta,Gastro Entritis,3103
+2017,West Jakarta,Gastro Entritis,6048
+2017,North Jakarta,Gastro Entritis,4388
+2017,Thousand Islands,Cholera,0
+2017,South Jakarta,Cholera,0
+2017,East Jakarta,Cholera,0
+2017,Central Jakarta,Cholera,0
+2017,West Jakarta,Cholera,0
+2017,North Jakarta,Cholera,0
+2017,Thousand Islands,Leprosy,6
+2017,South Jakarta,Leprosy,35
+2017,East Jakarta,Leprosy,92
+2017,Central Jakarta,Leprosy,16
+2017,West Jakarta,Leprosy,85
+2017,North Jakarta,Leprosy,66
+2017,Thousand Islands,TBC,69
+2017,South Jakarta,TBC,6984
+2017,East Jakarta,TBC,13167
+2017,Central Jakarta,TBC,5328
+2017,West Jakarta,TBC,7883
+2017,North Jakarta,TBC,5029
+2017,Thousand Islands,DHF,1
+2017,South Jakarta,DHF,627
+2017,East Jakarta,DHF,1265
+2017,Central Jakarta,DHF,129
+2017,West Jakarta,DHF,822
+2017,North Jakarta,DHF,518
+2018,Thousand Islands,Malaria,0
+2018,South Jakarta,Malaria,10
+2018,East Jakarta,Malaria,28
+2018,Central Jakarta,Malaria,7
+2018,West Jakarta,Malaria,10
+2018,North Jakarta,Malaria,8
+2018,Thousand Islands,Gastro Entritis,16
+2018,South Jakarta,Gastro Entritis,5814
+2018,East Jakarta,Gastro Entritis,11370
+2018,Central Jakarta,Gastro Entritis,3542
+2018,West Jakarta,Gastro Entritis,7502
+2018,North Jakarta,Gastro Entritis,5549
+2018,Thousand Islands,Cholera,0
+2018,South Jakarta,Cholera,0
+2018,East Jakarta,Cholera,0
+2018,Central Jakarta,Cholera,0
+2018,West Jakarta,Cholera,0
+2018,North Jakarta,Cholera,0
+2018,Thousand Islands,Leprosy,6
+2018,South Jakarta,Leprosy,42
+2018,East Jakarta,Leprosy,131
+2018,Central Jakarta,Leprosy,25
+2018,West Jakarta,Leprosy,99
+2018,North Jakarta,Leprosy,69
+2018,Thousand Islands,TBC,53
+2018,South Jakarta,TBC,6124
+2018,East Jakarta,TBC,11401
+2018,Central Jakarta,TBC,5918
+2018,West Jakarta,TBC,8285
+2018,North Jakarta,TBC,5208
+2018,Thousand Islands,DHF,8
+2018,South Jakarta,DHF,626
+2018,East Jakarta,DHF,797
+2018,Central Jakarta,DHF,112
+2018,West Jakarta,DHF,851
+2018,North Jakarta,DHF,260
+2019,Thousand Islands,Malaria,0
+2019,South Jakarta,Malaria,10
+2019,East Jakarta,Malaria,32
+2019,Central Jakarta,Malaria,3
+2019,West Jakarta,Malaria,8
+2019,North Jakarta,Malaria,5
+2019,Thousand Islands,Gastro Entritis,16
+2019,South Jakarta,Gastro Entritis,5973
+2019,East Jakarta,Gastro Entritis,10164
+2019,Central Jakarta,Gastro Entritis,4221
+2019,West Jakarta,Gastro Entritis,7599
+2019,North Jakarta,Gastro Entritis,5581
+2019,Thousand Islands,Cholera,0
+2019,South Jakarta,Cholera,0
+2019,East Jakarta,Cholera,0
+2019,Central Jakarta,Cholera,0
+2019,West Jakarta,Cholera,0
+2019,North Jakarta,Cholera,0
+2019,Thousand Islands,Leprosy,3
+2019,South Jakarta,Leprosy,107
+2019,East Jakarta,Leprosy,107
+2019,Central Jakarta,Leprosy,197
+2019,West Jakarta,Leprosy,75
+2019,North Jakarta,Leprosy,87
+2019,Thousand Islands,TBC,71
+2019,South Jakarta,TBC,7859
+2019,East Jakarta,TBC,12334
+2019,Central Jakarta,TBC,6428
+2019,West Jakarta,TBC,7563
+2019,North Jakarta,TBC,5215
+2019,Thousand Islands,DHF,6
+2019,South Jakarta,DHF,1976
+2019,East Jakarta,DHF,3004
+2019,Central Jakarta,DHF,492
+2019,West Jakarta,DHF,2305
+2019,North Jakarta,DHF,922
+2020,Thousand Islands,Malaria,0
+2020,South Jakarta,Malaria,6
+2020,East Jakarta,Malaria,41
+2020,Central Jakarta,Malaria,8
+2020,West Jakarta,Malaria,4
+2020,North Jakarta,Malaria,1
+2020,Thousand Islands,Gastro Entritis,5
+2020,South Jakarta,Gastro Entritis,2313
+2020,East Jakarta,Gastro Entritis,3768
+2020,Central Jakarta,Gastro Entritis,1601
+2020,West Jakarta,Gastro Entritis,4056
+2020,North Jakarta,Gastro Entritis,3129
+2020,Thousand Islands,Cholera,0
+2020,South Jakarta,Cholera,53
+2020,East Jakarta,Cholera,15
+2020,Central Jakarta,Cholera,0
+2020,West Jakarta,Cholera,89
+2020,North Jakarta,Cholera,5
+2020,Thousand Islands,Leprosy,0
+2020,South Jakarta,Leprosy,87
+2020,East Jakarta,Leprosy,75
+2020,Central Jakarta,Leprosy,89
+2020,West Jakarta,Leprosy,43
+2020,North Jakarta,Leprosy,27
+2020,Thousand Islands,TBC,29
+2020,South Jakarta,TBC,4462
+2020,East Jakarta,TBC,6670
+2020,Central Jakarta,TBC,4207
+2020,West Jakarta,TBC,4126
+2020,North Jakarta,TBC,2662
+2020,Thousand Islands,DHF,5
+2020,South Jakarta,DHF,1020
+2020,East Jakarta,DHF,1544
+2020,Central Jakarta,DHF,367
+2020,West Jakarta,DHF,1266
+2020,North Jakarta,DHF,542
